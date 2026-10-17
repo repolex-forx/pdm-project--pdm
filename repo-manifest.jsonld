@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pdm-project/pdm/commit/b8b21a9ce2b8b1af742387d81d29ea19afa85ecf",
       "git:hexsha": "b8b21a9ce2b8b1af742387d81d29ea19afa85ecf",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pdm-project/pdm/commit/328da1d6d47ef94bfeb827319db0838387d408b5",

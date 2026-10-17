@@ -1,0 +1,7 @@
+[2026-10-17T22:29:46Z] === AST ITERATION 1 START | repo=pdm-project/pdm sha=b8b21a9c ===
+[2026-10-17T22:29:46Z] [iter=1] PHASE START: ast repo=pdm-project/pdm sha=b8b21a9c
+[2026-10-17T22:29:46Z] [iter=1] Building AST aggregate chunks
+[2026-10-17T22:33:51Z] [iter=1] AST chunks built count=1 triples=2175559
+[2026-10-17T22:33:51Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/b8b21a9ce2b8b1af742387d81d29ea19afa85ecf/.complete
+[2026-10-17T22:33:51Z] [iter=1] PHASE END: ast elapsed_s=245 elapsed_min=4.1
+[2026-10-17T22:33:51Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
