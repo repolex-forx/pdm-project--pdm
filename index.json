@@ -1,0 +1,11 @@
+{
+  "org": "pdm-project",
+  "repo": "pdm",
+  "versions": [
+    {
+      "commit": "b8b21a9ce2b8b1af742387d81d29ea19afa85ecf",
+      "tag": "",
+      "parsed_at": "2026-10-17T22:35:11.325163+00:00"
+    }
+  ]
+}
